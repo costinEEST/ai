@@ -7,3 +7,7 @@
 let `uv` use its cache and fetch PyYAML so the official Codex skill validator can run 
 
 `uv run --with pyyaml python /Users/constantin.campean/.codex/skills/.system/skill-creator/scripts/quick_validate.py .agents/skills/stock-analyst`
+
+# MCP
+
+https://github.com/mrgoonie/claudekit-skills/blob/main/.claude/skills/chrome-devtools/SKILL.md 
