@@ -4,3 +4,4 @@
   - https://ai.engineer/talks/KwhgfwOSToQ-forward-deployed-engineering-101
   - https://www.youtube.com/watch?v=KwhgfwOSToQ
   - https://www.youtube.com/watch?v=sof3vW4mHTs
+  - https://www.linkedin.com/posts/colin-jarvis-50019658_colin-jarvis-head-of-forward-deployed-engineering-share-7399593792770719744-VecE, https://openai.com/index/forward-deployed-engineering-means/
