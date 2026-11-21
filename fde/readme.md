@@ -1,0 +1,6 @@
+- https://anthropic-partners.skilljar.com/path/claude-fde
+  - https://www.reddit.com/r/OfferEngineering/comments/1uc8ocr/anthropic_forward_deployed_engineer_fde_interview/
+  - https://zkevinbai.com/blog/forward-deployed-engineering-101
+  - https://ai.engineer/talks/KwhgfwOSToQ-forward-deployed-engineering-101
+  - https://www.youtube.com/watch?v=KwhgfwOSToQ
+  - https://www.youtube.com/watch?v=sof3vW4mHTs
